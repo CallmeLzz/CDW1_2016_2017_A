@@ -1,1 +1,0 @@
-mysqldump -uroot -p dev_laravel_v53 > dev_laravel_v53.sql
