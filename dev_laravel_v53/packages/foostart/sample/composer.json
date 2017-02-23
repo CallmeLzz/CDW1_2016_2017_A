@@ -1,0 +1,13 @@
+{
+    "name": "foostart/sample",
+    "description": "Create overview sample can intergrate other project",
+    "license": "INFINITY_M",
+    "authors": [
+        {
+            "name": "Foostart",
+            "email": "nguyenanhhoanld@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

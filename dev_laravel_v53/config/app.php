@@ -182,6 +182,7 @@ return [
          * Add my extension
          */
         LaravelAcl\Authentication\AuthenticationServiceProvider::class,
+        Foostart\Sample\SampleServiceProvider::class,
 
     ],
 
