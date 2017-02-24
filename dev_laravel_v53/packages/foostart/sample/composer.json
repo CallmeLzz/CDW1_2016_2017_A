@@ -1,14 +1,13 @@
 {
-    "name": "foostartnd/sample",
+    "name": "foostart/sample",
     "type": "library",
     "description": "Create overview sample can intergrate other project",
     "keywords": ["foostartnd","sample"],
-    "homepage": "https://github.com/InfinitePW/Foostart",
     "license": "MIT",
     "authors": [
         {
             "name": "Foostart",
-            "email": "nguyenanhhoanld@gmail.com",
+            "email": "cdw1_2016_2017_a@gmail.com",
             "role": "Developer"
         }
     ],
