@@ -26,6 +26,7 @@ class SampleServiceProvider extends ServiceProvider
     {
         //
         include __DIR__ . '/routes.php';
-        $this->app->make('Foostart\Sample\SampleController');
+        $this->app->make('Foostart\Sample\Controllers\SampleController');
+        $this->app->make('Foostart\Sample\Controllers\AdminController');
     }
 }

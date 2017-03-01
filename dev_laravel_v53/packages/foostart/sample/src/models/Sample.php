@@ -16,6 +16,6 @@ class Sample extends Model
 	];
 
 	public function getAllData(){
-		return Sample::all();
+		return Sample::paginate(10);// all();
 	}
 }

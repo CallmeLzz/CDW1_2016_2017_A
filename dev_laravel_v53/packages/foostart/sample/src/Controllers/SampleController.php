@@ -1,6 +1,6 @@
 <?php
 
-namespace Foostart\Sample;
+namespace Foostart\Sample\Controllers;
 
 use App\Http\Controllers\Controller;
 use Foostart\Sample\Models\Sample;
